@@ -1,0 +1,25 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "customerName": "John",
+      "noOfItems": 3,
+      "total": 700,
+      "status": "Ready to serve"
+    },
+    {
+      "id": 2,
+      "customerName": "Johnny",
+      "noOfItems": 1,
+      "total": 300,
+      "status": "Order Received"
+    },
+    {
+      "id": 3,
+      "customerName": "Janardhan",
+      "noOfItems": 5,
+      "total": 1500,
+      "status": "Order Received"
+    }
+  ]
+}
