@@ -5,11 +5,6 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
 ### Additional dependency
 ```
 axios: https://github.com/axios/axios
